@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T10:58:30.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.6.4" etag="FDIDL9VrOeNbVhw21AHD" type="github"><diagram id="DDBYl9v7bE2k25orbSkt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-17T11:39:05.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="pzh9SEuAKtbsgdYmC5sM" version="13.6.4" type="github">
+  <diagram id="DDBYl9v7bE2k25orbSkt" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vhfV_jU5vwpWM1bPvTO-4" target="7vhfV_jU5vwpWM1bPvTO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-4" value="李大一" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vhfV_jU5vwpWM1bPvTO-5" target="7vhfV_jU5vwpWM1bPvTO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;服务器端文件&lt;br&gt;123.txt&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="170" y="125" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vhfV_jU5vwpWM1bPvTO-10" target="7vhfV_jU5vwpWM1bPvTO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-10" value="&lt;font style=&quot;font-size: 17px&quot;&gt;创建文件分享连接&lt;br&gt;&lt;font color=&quot;#3333ff&quot;&gt;http://example.cn/file/123.txt&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-12" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Tios：此处的文件分享链接可以直接是文件地址，也可以根据需要在后面加上参数，如分享有效期等，后端倒也可以获取返回，但是前端也可以处理，不是吗？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;添加参数后的文件分享链接：&lt;br&gt;&lt;font color=&quot;#ff2659&quot;&gt;http://example.cn/file/123.txt&lt;/font&gt;？expired=20201018200910&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="500" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-18" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="114.5" y="230" as="sourcePoint" />
+            <mxPoint x="115" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-20" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px&quot;&gt;不二啊，给你分享了个东西，地址是xxxx，提取码是YYYY，抓紧啊，过了10.18, 20:09:10可就过期了&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="124" y="340" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241" y="511" as="targetPoint" />
+            <mxPoint x="121" y="511" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-21" value="张不二" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="477" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-22" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#4d4d4d&quot;&gt;哈！李哥终于舍得把你的资源分享给我了，好嘞，我就这立马上线提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-25" value="输入分享地址&lt;br&gt;&lt;font color=&quot;#ff2659&quot; style=&quot;font-size: 18px&quot;&gt;http://example.cn/file/123.txt&lt;/font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;？expired=20201018200910，进入文件提取页面&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="487" width="534" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="590" width="416" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="700" width="120" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-30" value="请输入问价提取码进行文件提取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="307" y="636" width="174" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-33" value="提取文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="456" y="700" width="68" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

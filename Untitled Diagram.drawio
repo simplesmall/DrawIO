@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T13:52:26.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="D-e3q7hhNbw6VDT2UI10" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T13:55:48.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="iCCqcJOBGP2A7BkCOIJz" version="13.6.4" type="github">
   <diagram id="DDBYl9v7bE2k25orbSkt" name="Page-1">
     <mxGraphModel dx="999" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -84,6 +84,18 @@
         </mxCell>
         <mxCell id="7vhfV_jU5vwpWM1bPvTO-38" value="&lt;font style=&quot;font-size: 15px&quot;&gt;提取文件&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;sketch=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="447" y="905" width="68" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-39" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;提取码错误&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;请重新输入验证或检查文件地址是否正确&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="954" width="263" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-40" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="1115" width="472" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-44" value="&lt;font style=&quot;font-size: 16px&quot;&gt;文件目录：file\&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1146" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7vhfV_jU5vwpWM1bPvTO-45" value="&lt;span style=&quot;font-size: 16px&quot;&gt;有效时间：&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;20201018200910&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1169" width="263" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

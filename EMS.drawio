@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T13:07:16.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tPPtDlwsqppSpTaCvfH0" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-27T13:09:17.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xDQoPs1J06YtfFAE3jRX" version="13.8.0" type="github">
   <diagram id="DNCnQG5lFpVyD82qtM-c" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,16 +20,31 @@
           <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y8zHGn0SwCX2MKwFKl7j-6" value="单证录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y8zHGn0SwCX2MKwFKl7j-7" value="贸易伙伴管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y8zHGn0SwCX2MKwFKl7j-8" value="商品信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y8zHGn0SwCX2MKwFKl7j-9" value="报文生成/发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8zHGn0SwCX2MKwFKl7j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y8zHGn0SwCX2MKwFKl7j-10" target="Y8zHGn0SwCX2MKwFKl7j-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8zHGn0SwCX2MKwFKl7j-10" value="网店注册/管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8zHGn0SwCX2MKwFKl7j-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y8zHGn0SwCX2MKwFKl7j-11" target="Y8zHGn0SwCX2MKwFKl7j-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8zHGn0SwCX2MKwFKl7j-11" value="买家模拟/采购商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8zHGn0SwCX2MKwFKl7j-13" value="银行模拟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
